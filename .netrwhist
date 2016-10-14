@@ -1,3 +1,7 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =1
+let g:netrw_dirhist_cnt =5
 let g:netrw_dirhist_1='/Users/apetcoff/i liek 2 progrmam/catmapper/app'
+let g:netrw_dirhist_2='/Users/apetcoff/i liek 2 progrmam/tny-yoshi'
+let g:netrw_dirhist_3='/Users/apetcoff/i liek 2 progrmam/tny-yoshi/server'
+let g:netrw_dirhist_4='/Users/apetcoff/i liek 2 progrmam/tny-yoshi'
+let g:netrw_dirhist_5='/Users/apetcoff/i liek 2 progrmam/tny-yoshi/client'
